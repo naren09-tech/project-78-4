@@ -1,0 +1,59 @@
+.climg{
+    height: 100px;
+    width: 100px;
+}
+.movie_head{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i
+{
+    float:right;
+}
+.movie_text span{
+    color:orange;
+}
+.whatsnew_li{
+    margin-top:13px;
+}
+.whatsnew_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.whatsnew_li img{
+    border-radius: 25px;
+}
+.whatsnew_li p{
+    margin-top: 10px;
+}
+.navbar-inverse my_nav_bar{
+    top: 0px;
+    position: fixed;
+}
+.album {
+    cursor: pointer;
+}
+
+.album hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
